@@ -1,5 +1,3 @@
 # jujutsu-test
-change 1
-change 2
-change 3
-cccc
+https://github.com/jj-vcs/jj
+https://steveklabnik.github.io/jujutsu-tutorial/sharing-code/remotes.html
